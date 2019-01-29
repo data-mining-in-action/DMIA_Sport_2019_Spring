@@ -9,7 +9,7 @@
 
 | Дата | Занятие | Материалы | Задание | Дедлайны |
 | ---- | -------- | --------- | ------- | -------- |
-| 02.02 ||| Выложено вступительное задание | [Вступительный тест](https://goo.gl/forms/2C6DBsPQR7TPoulv1) и [вступительное соревнование (passwords)](https://github.com/data-mining-in-action/DMIA_Sport_2019_Spring_dev/blob/master/competitions/passwords/README.md) ||
+| 02.02 || Выложено вступительное задание | [Вступительный тест](https://goo.gl/forms/2C6DBsPQR7TPoulv1) и [вступительное соревнование (passwords)](https://github.com/data-mining-in-action/DMIA_Sport_2019_Spring_dev/blob/master/competitions/passwords/README.md) ||
 | 09.02 | Торжественный запуск DMIA ||| [Вступительный тест](https://goo.gl/forms/2C6DBsPQR7TPoulv1) и [вступительное соревнование (passwords)](https://github.com/data-mining-in-action/DMIA_Sport_2019_Spring_dev/blob/master/competitions/passwords/README.md) |
 | 16.02 | Введение в соревнования. Идеология соревнований, отличие от индустриальных задач. Соревновательные платформы. Участие в командах, как объединять усилия и синхронизировать результат. Software, hardware. || |
 | 23.02 | <Выходной> ||||
