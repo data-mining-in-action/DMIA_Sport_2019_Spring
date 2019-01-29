@@ -1,6 +1,6 @@
 # DMIA, Спортивное направление. Весна 2019
 
-## Python
+## Course requirements
 
 - Используем python 3.6, инструкция по установке и созданию виртуального окружения [в репозитории общего потока 2018 года](https://github.com/utd-ai/DMIA2018_Fall_public/blob/master/README.md)
 - Следует использовать requirements.txt из этого репозитория
